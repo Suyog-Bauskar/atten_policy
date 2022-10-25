@@ -1,2 +1,2 @@
-<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+'<uses-permission android:name="android.permission.READ_PHONE_STATE" />'
 Required to know if user is on call while taking attendance
